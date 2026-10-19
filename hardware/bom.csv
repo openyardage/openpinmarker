@@ -1,0 +1,14 @@
+build,part,part_number,source,price,currency,price_date,note
+recommended,GNSS receiver,u-blox ZED-X20P-01B,,300,USD,2026-10,on a breakout board; only the -01B variant receives Galileo HAS; check the variant before ordering
+recommended,GNSS antenna,u-blox ANN-MB2,SparkFun,119.95,USD,2026-10,all-band including E6
+cheap,GNSS receiver,Quectel LG290P,,57,EUR,2026-10,price from; L1 L2 L5 E6
+cheap,GNSS antenna,helical L1/L2/L5,,17,EUR,2026-10,price from
+both,controller,ESP32-C3 board,,5,EUR,2026-10,Wi-Fi to the phone
+both,storage,microSD card,,,,,raw satellite data for the calculation afterwards
+both,cell,18650 lithium-ion,,7,EUR,2026-10,price includes a USB-C charging board
+both,charging board,USB-C 18650 charger,,,,,see cell
+both,button,momentary push button,,,,,
+both,light,LED,,,,,
+both,bubble level,circular bubble level,,,,,set into the case
+both,thread insert,5/8-inch-11 insert,,,,,survey pole thread underneath the case
+both,case and clamp,3D printed,,,,,files to come

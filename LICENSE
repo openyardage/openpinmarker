@@ -1,0 +1,16 @@
+OpenPinMarker uses three licences, one for each kind of work.
+
+  firmware/   GPL-3.0-or-later    GNU General Public License v3.0 or later
+  hardware/   CERN-OHL-S-2.0      CERN Open Hardware Licence v2,
+  and                             Strongly Reciprocal
+  docs/drawings/
+  everything  CC-BY-SA-4.0        Creative Commons Attribution-ShareAlike
+  else                            4.0 International
+
+The full texts are in LICENSES/. REUSE.toml states the licence of each file
+in machine-readable form (https://reuse.software).
+
+Copyright (C) 2026 the OpenPinMarker contributors.
+
+The pin positions a marker reports go to OpenPinsheet and stand under the
+Open Database License 1.0. These licences do not cover them.
