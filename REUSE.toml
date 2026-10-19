@@ -11,7 +11,7 @@ SPDX-FileCopyrightText = "2026 the OpenPinMarker contributors"
 SPDX-License-Identifier = "CERN-OHL-S-2.0"
 
 [[annotations]]
-path = ["README.md", "LICENSE", "CONTRIBUTING.md", "SECURITY.md", "REUSE.toml", ".gitignore", "docs/**"]
+path = ["README.md", "LICENSE", "CONTRIBUTING.md", "SECURITY.md", "REUSE.toml", ".gitignore", ".github/**", "docs/**"]
 SPDX-FileCopyrightText = "2026 the OpenPinMarker contributors"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
