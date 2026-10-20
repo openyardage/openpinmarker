@@ -11,6 +11,10 @@ the open record of pin positions.
 > services' own targets, not from our measurements. A pilot in 2027 checks
 > them on real greens.
 
+- Website: https://openpinsheet.com/marker
+- Measuring: [docs/measuring.md](docs/measuring.md)
+- Parts list: [hardware/bom.csv](hardware/bom.csv)
+
 ## How it works
 
 The flagstick centres itself in the cup, so a marker clipped just under the
@@ -85,12 +89,21 @@ marking, and nobody guarantees its accuracy. Whoever sells finished devices
 becomes their manufacturer under EU law, with the duties that come with it.
 The device is radio equipment; follow the radio rules of your country.
 
+## Contributing
+
+Bug reports, measurements and questions are welcome as issues. Read
+[CONTRIBUTING.md](CONTRIBUTING.md) before a pull request, and report
+security problems privately as [SECURITY.md](SECURITY.md) describes.
+Everyone here follows the
+[Code of Conduct](https://github.com/openyardage/.github/blob/main/CODE_OF_CONDUCT.md).
+
 ## Licences
 
-- Firmware: GNU General Public License v3.0 or later
-- Hardware (CAD, printable files, wiring, bill of materials): CERN Open
-  Hardware Licence v2, Strongly Reciprocal
-- Documentation and images: Creative Commons Attribution-ShareAlike 4.0
+| Part | Licence |
+|---|---|
+| Firmware | GNU General Public License v3.0 or later |
+| Hardware (CAD, printable files, wiring, bill of materials) | CERN Open Hardware Licence v2, Strongly Reciprocal |
+| Documentation and images | Creative Commons Attribution-ShareAlike 4.0 |
 
 The firmware is licensed on its own, independent of the hardware.
 [LICENSE](LICENSE) says which part falls under which licence; the texts are
